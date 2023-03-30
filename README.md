@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **M**
-
 - 📫 How to reach me **adheep525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
